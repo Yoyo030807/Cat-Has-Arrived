@@ -6,7 +6,7 @@
 [https://yaoyaoyu-the-cat-has-arrived.static.hf.space]
 
 ## Credits & Assets
-* **Developer**: Xiaoyu
+* **Developer**: Yaoyao YU; FortuneFish; Lele DUO
 * **Music**: "Leisurely Place" (のんびりした場所) by Keiichiro Nishiki
 * **Engine**: Unity 2022 (URP)
 * **License**: This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. (Art and Audio assets may have their own licenses).
